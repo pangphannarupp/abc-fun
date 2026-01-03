@@ -1,0 +1,7 @@
+{
+  "name": "ABC Fun - Kid's Learning Adventure",
+  "description": "An interactive alphabet learning application for children featuring letter tracing, quizzes, songs, and profile tracking, powered by Gemini for educational insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
